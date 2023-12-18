@@ -1,5 +1,10 @@
 # ProcessingInteractiveWebPage
 
+## Require
+
+- [Processing HTTP Server](https://transfluxus.github.io/SimpleHTTPServer/)
+- [Websockets for Processing](https://github.com/alexandrainst/processing_websockets)
+
 ## Usage
 
 1. Run ProcessingInteractiveWebPage.pde
